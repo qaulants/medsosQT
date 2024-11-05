@@ -63,9 +63,9 @@ include 'koneksi.php';
             </div>
         </div> -->
 
-    <footer class="fixed-bottom bg-secondary" style="min-height: 65px">
+    <!-- <footer class="fixed-bottom bg-secondary" style="min-height: 65px">
         <p class="text-center pt-3 px-4">Copyright &copy 2024 PPKD - Jakarta Pusat.</p>
-    </footer>
+    </footer> -->
     </div>
 
     <script src="bootstrap-5.3.3/dist/js/jquery-3.7.1.min.js"></script>
